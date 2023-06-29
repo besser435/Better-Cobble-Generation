@@ -4,11 +4,11 @@ license="GNU General Public License version 3 (GPLv3)"
 
 [[mods]]
 modId="better_cobble_gen"
-version="1.0"
+version="1.3"
 displayName="Better Cobble Gen"
-credits="TEAW"
-displayURL="https://github.com/besser435"
-authors="besser"
+credits=""
+displayURL="https://github.com/besser435/Better-Cobble-Generation"
+authors="brandonusa"
 description='''
 A Create addon for better cobble generation recipes.
 '''
