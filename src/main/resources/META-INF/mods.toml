@@ -1,0 +1,31 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="GNU General Public License version 3 (GPLv3)"
+
+[[mods]]
+modId="better_cobble_gen"
+version="1.0"
+displayName="Better Cobble Gen"
+credits="TEAW"
+displayURL="https://github.com/besser435"
+authors="besser"
+description='''
+A Create addon for better cobble generation recipes.
+'''
+
+[[dependencies.better_cobble_gen]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+[[dependencies.better_cobble_gen]]
+    modId="create"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+
